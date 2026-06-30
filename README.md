@@ -1,3 +1,17 @@
+# 🚀 Live App Link:https://last-minute-life-saver-804848631001.asia-southeast1.run.app/
+
+## Project Description
+Last Minute Life Saver (LMLS) is an AI crisis management dashboard for the overwhelmed. Powered by Google AI Studio (Gemini), it transforms chaotic task dumps into structured, stress-free execution plans. Features include intelligent 4-column prioritization, dynamic daily replanning, custom calendar tracking, and autonomous roadmap generation.
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
